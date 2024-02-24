@@ -1,0 +1,7 @@
+<project outputDir="D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\Debug\Confused" baseDir="D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <module path="BookLauncher.exe">
+    <rule pattern="true" preset="maximum" inherit="false">
+      <protection id="anti tamper" />
+    </rule>
+  </module>
+</project>

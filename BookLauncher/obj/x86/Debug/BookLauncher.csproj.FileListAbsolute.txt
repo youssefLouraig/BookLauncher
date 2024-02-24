@@ -1,0 +1,411 @@
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.exe
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.pdb
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.BonusSkins.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Utils.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Xpo.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraBars.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraGrid.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraNavBar.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.Support.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Office.v18.1.Core.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Images.v18.1.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.v18.1.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Utils.v18.1.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Xpo.v18.1.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraGrid.v18.1.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.Support.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Office.v18.1.Core.xml
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\Interop.AutoItX3Lib.dll
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.ResolveComReference.cache
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Accueil.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Active.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_ImportExcel.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Launcher.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_ListeBooks.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_LoginApp.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_LoginKDP.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Publishing.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Properties.Resources.resources
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.GenerateResource.cache
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.exe.licenses
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.CoreCompileInputs.cache
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.CopyComplete
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.exe
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.pdb
+D:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csprojAssemblyReference.cache
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.exe.config
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.exe.manifest
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.application
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.exe
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.pdb
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\BouncyCastle.Crypto.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.BonusSkins.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.Desktop.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Printing.v20.1.Core.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Sparkline.v20.1.Core.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Utils.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Xpo.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraBars.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraEditors.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraGrid.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraLayout.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraNavBar.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraPrinting.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\Google.Protobuf.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Compression.LZ4.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Hash.xxHash.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\MySql.Data.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\System.Buffers.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\System.Memory.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\System.Numerics.Vectors.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\Ubiety.Dns.Core.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.Support.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ZstdNet.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v20.1.Core.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.RichEdit.v20.1.Core.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraTreeList.v20.1.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Office.v20.1.Core.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Printing.v20.1.Core.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.Desktop.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Utils.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Xpo.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraBars.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Sparkline.v20.1.Core.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraEditors.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraGrid.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraLayout.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraNavBar.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraPrinting.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\Google.Protobuf.pdb
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\Google.Protobuf.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Compression.LZ4.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Hash.xxHash.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\MySql.Data.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\System.Buffers.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\System.Memory.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\System.Numerics.Vectors.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.Support.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v20.1.Core.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.RichEdit.v20.1.Core.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraTreeList.v20.1.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Office.v20.1.Core.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Data.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Data.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Data.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Data.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Utils.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Utils.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Accueil.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.FrmAbout.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_About.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Active.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Generate_keysearch.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Generate_Mazes.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_ImportExcel.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Launcher.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_ListeBooks.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_LoginKDP.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Publishing.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_UpdateLoginApp.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.LoginForm.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.SplashBookLauncher.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Properties.Resources.resources
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.GenerateResource.cache
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.exe.licenses
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.CoreCompileInputs.cache
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.TrustInfo.xml
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.exe.manifest
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.application
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.CopyComplete
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.exe
+G:\C#\Visual studio 2017\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.pdb
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.exe.config
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.exe.manifest
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.application
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.exe
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\BookLauncher.pdb
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\Google.Protobuf.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Compression.LZ4.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Hash.xxHash.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\MySql.Data.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\System.Buffers.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\System.Memory.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\Ubiety.Dns.Core.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.Support.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ZstdNet.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\Google.Protobuf.pdb
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\Google.Protobuf.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Compression.LZ4.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\K4os.Hash.xxHash.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\MySql.Data.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\System.Buffers.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\System.Memory.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\WebDriver.Support.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\bin\x86\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Accueil.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.FrmAbout.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_About.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Active.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Generate_keysearch.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Generate_Mazes.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_ImportExcel.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Launcher.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_ListeBooks.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_LoginKDP.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_Publishing.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.Frm_UpdateLoginApp.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.LoginForm.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Forms.SplashBookLauncher.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.Properties.Resources.resources
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.GenerateResource.cache
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.exe.licenses
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.TrustInfo.xml
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.exe.manifest
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.application
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.CopyComplete
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.exe
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.pdb
+C:\Users\Youssef\Documents\BookLauncher\BookLauncher\obj\x86\Debug\BookLauncher.csproj.AssemblyReference.cache
